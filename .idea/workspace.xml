@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dc44b6c-fd66-45af-a1ce-370098f53a03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data/screenshot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="9dc44b6c-fd66-45af-a1ce-370098f53a03" name="Changes" comment="Добавлен скриншот" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,12 +151,25 @@
       <workItem from="1727706058799" duration="4027000" />
       <workItem from="1727710135567" duration="6824000" />
       <workItem from="1727717105758" duration="3585000" />
-      <workItem from="1727720769942" duration="345000" />
+      <workItem from="1727720769942" duration="661000" />
     </task>
+    <task id="LOCAL-00001" summary="Добавлен скриншот">
+      <option name="closed" value="true" />
+      <created>1727721423141</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727721423141</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Добавлен скриншот" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлен скриншот" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
